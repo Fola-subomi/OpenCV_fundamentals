@@ -16,8 +16,6 @@ This repository explores essential OpenCV concepts through practical examples, i
 - Image thresholding and masking
 - Bitwise operations
 - Blurring, filtering, and edge detection
-- Contour detection and shape analysis
-- Face and object detection (Haar cascades)
 - Basic video processing with webcam input
 
 Each section contains commented code examples and short explanations to make learning easier.
